@@ -1,6 +1,7 @@
 # Knowledge-Resume
 
-[Demo Site](https://xboudsady.github.io/Knowledge-resume/)
+[Demo Site](https://xboudsady.github.io/knowledge-resume/)
+
 
 Basic HTML &amp; CSS vertical scrolling for chronological timeline work experience
 
